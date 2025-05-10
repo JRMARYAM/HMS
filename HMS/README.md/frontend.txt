@@ -1,0 +1,5 @@
+cd frontend
+# Install dependencies if you haven't already
+npm install
+# Start the frontend development server
+npm start

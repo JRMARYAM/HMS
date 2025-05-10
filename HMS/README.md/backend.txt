@@ -1,0 +1,8 @@
+cd backend
+# Activate the virtual environment
+# On Windows:
+.\venv\Scripts\activate
+# Install dependencies if you haven't already
+pip install -r requirements.txt
+# Start the backend server
+python app/main.py
